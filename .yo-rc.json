@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "smartbank",
+    "packageName": "tn.smartbank",
+    "packageFolder": "tn/smartbank",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "eaecd86a809807b8fe9b141b0cbf45a04e82cb76",
+    "testFrameworks": []
+  }
+}
